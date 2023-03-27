@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-repositorio creado para el modulo 2 del prepcourse xd
+esto es una prueba para clonar un repositorio desde github a mi computadora
